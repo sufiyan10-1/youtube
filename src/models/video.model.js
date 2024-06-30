@@ -23,7 +23,7 @@ const videoSchema = new Schema(
         type: Number, //cloudnary
         required: true
       },
-      voiews: {
+      views: {
         type: Number,
         default: 0
       },
